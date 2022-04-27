@@ -1,5 +1,2 @@
 code B
 code B
-
-code A
-code A
