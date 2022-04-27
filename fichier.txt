@@ -1,3 +1,0 @@
-Ceci est la premiere ligne
-Ceci est la seconde ligne
-Troisième ligne
